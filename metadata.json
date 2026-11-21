@@ -1,0 +1,6 @@
+{
+  "name": "TapTrack — Nocturne Lecture System",
+  "description": "RFID attendance tracker for nighttime lecture halls with live NFC tap registry, student directory, attendance history, and reader diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
